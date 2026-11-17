@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+backend/models/
+backend/*.db
+.pytest_cache/
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+.idea/
+*.iml
